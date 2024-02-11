@@ -1,5 +1,5 @@
 > "Computer science is no more about computers than astronomy is about telescopes."\
-> — <cite>Edsgar Dijkstra<cite>
+> — <cite>Edsger Dijkstra<cite>
 
 ###
 
