@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm a second year student of Computer Science at the University of Wrocław.</p>
+<p align="left">I'm a third year student of Computer Science at the University of Wrocław.</p>
 
 ###
 
