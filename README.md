@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm a third year student of Computer Science at the University of Wrocław.</p>
+<p align="left">I'm a final-year Computer Science student at the University of Wrocław, with a strong passion for algorithms, logic, and mathematical formalism.</p>
 
 ###
 
