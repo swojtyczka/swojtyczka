@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm a final-year Computer Science student at the University of Wrocław, with a strong passion for algorithms, logic, and mathematical formalism.</p>
+<p align="left">I'm a Computer Science graduate (BSc Eng.) from the University of Wrocław, currently pursuing a Master's degree in Computer Science at the same institution. I have a strong passion for algorithms, logic, and mathematical formalism.</p>
 
 ###
 
